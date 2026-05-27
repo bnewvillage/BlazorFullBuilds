@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Blaine\\Documents\\Code Collection\\CSE325_2\\BlazingPizzaSite\\BlazingPizzaSite.csproj": {}
+    "c:\\Users\\Blaine\\Documents\\Code Collection\\BlazorFullBuilds\\BlazingPizzaSite\\BlazingPizzaSite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Blaine\\Documents\\Code Collection\\CSE325_2\\BlazingPizzaSite\\BlazingPizzaSite.csproj": {
+    "c:\\Users\\Blaine\\Documents\\Code Collection\\BlazorFullBuilds\\BlazingPizzaSite\\BlazingPizzaSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Blaine\\Documents\\Code Collection\\CSE325_2\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
+        "projectUniqueName": "c:\\Users\\Blaine\\Documents\\Code Collection\\BlazorFullBuilds\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
         "projectName": "BlazingPizzaSite",
-        "projectPath": "C:\\Users\\Blaine\\Documents\\Code Collection\\CSE325_2\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
+        "projectPath": "c:\\Users\\Blaine\\Documents\\Code Collection\\BlazorFullBuilds\\BlazingPizzaSite\\BlazingPizzaSite.csproj",
         "packagesPath": "C:\\Users\\Blaine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Blaine\\Documents\\Code Collection\\CSE325_2\\BlazingPizzaSite\\obj\\",
+        "outputPath": "c:\\Users\\Blaine\\Documents\\Code Collection\\BlazorFullBuilds\\BlazingPizzaSite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Blaine\\AppData\\Roaming\\NuGet\\NuGet.Config"
